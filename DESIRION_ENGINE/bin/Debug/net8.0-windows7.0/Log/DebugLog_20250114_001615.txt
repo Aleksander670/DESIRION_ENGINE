@@ -1,0 +1,11 @@
+2025-01-14 00:16:15 - Инициализация игры началась.
+2025-01-14 00:16:15 - Исключение при запуске игры: Begin cannot be called again until End has been successfully called.
+Max FPS: ∞
+Min FPS: 60,000237
+Average FPS: ∞
+2025-01-14 00:16:17 - CPU Usage: 11,090794%
+2025-01-14 00:16:17 - Min CPU Usage: 11,090794%
+2025-01-14 00:16:17 - Max CPU Usage: 11,090794%
+2025-01-14 00:16:17 - Average CPU Usage: 11,090794%
+CPU Usage: 11,090794%
+RAM Usage: 79 MB

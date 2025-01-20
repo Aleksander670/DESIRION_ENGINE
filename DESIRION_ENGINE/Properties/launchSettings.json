@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DESIRION_ENGINE": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}

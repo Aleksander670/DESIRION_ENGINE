@@ -1,0 +1,11 @@
+2025-01-13 02:00:21 - Инициализация игры началась.
+2025-01-13 02:00:21 - Исключение при запуске игры: Value cannot be null. (Parameter 'value')
+Max FPS: ∞
+Min FPS: 60,000237
+Average FPS: ∞
+2025-01-13 02:00:27 - CPU Usage: 16,842344%
+2025-01-13 02:00:27 - Min CPU Usage: 16,842344%
+2025-01-13 02:00:27 - Max CPU Usage: 16,842344%
+2025-01-13 02:00:27 - Average CPU Usage: 16,842344%
+CPU Usage: 16,842344%
+RAM Usage: 73 MB

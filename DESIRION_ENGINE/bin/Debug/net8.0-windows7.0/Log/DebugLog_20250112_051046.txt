@@ -1,0 +1,11 @@
+2025-01-12 05:10:46 - Инициализация игры началась.
+2025-01-12 05:10:46 - Исключение при запуске игры: An error occurred while preparing to draw. This is probably because the current vertex declaration does not include all the elements required by the current vertex shader. The current vertex declaration includes these elements: SV_Position0, COLOR0, TEXCOORD0.
+Max FPS: ∞
+Min FPS: 60,000237
+Average FPS: ∞
+2025-01-12 05:10:48 - CPU Usage: 14,446204%
+2025-01-12 05:10:48 - Min CPU Usage: 14,446204%
+2025-01-12 05:10:48 - Max CPU Usage: 14,446204%
+2025-01-12 05:10:48 - Average CPU Usage: 14,446204%
+CPU Usage: 14,446204%
+RAM Usage: 81 MB

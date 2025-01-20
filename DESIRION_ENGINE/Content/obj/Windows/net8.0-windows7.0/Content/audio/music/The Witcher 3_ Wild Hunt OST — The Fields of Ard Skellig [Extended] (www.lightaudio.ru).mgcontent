@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/audio/music/The Witcher 3_ Wild Hunt OST — The Fields of Ard Skellig [Extended] (www.lightaudio.ru).mp3</SourceFile>
+  <SourceTime>2025-01-06T01:57:58.8974298+03:00</SourceTime>
+  <DestFile>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/bin/Windows/Content/audio/music/The Witcher 3_ Wild Hunt OST — The Fields of Ard Skellig [Extended] (www.lightaudio.ru).xnb</DestFile>
+  <DestTime>2025-01-06T02:02:02.9110113+03:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2024-08-16T20:05:56+03:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2024-08-16T20:05:56+03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/bin/Windows/Content/audio/music/The Witcher 3_ Wild Hunt OST — The Fields of Ard Skellig [Extended] (www.lightaudio.ru).wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

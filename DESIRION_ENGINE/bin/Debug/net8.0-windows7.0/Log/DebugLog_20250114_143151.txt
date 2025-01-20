@@ -1,0 +1,10 @@
+2025-01-14 14:31:51 - Исключение при запуске игры: Texture width must be greater than zero (Parameter 'width')
+Max FPS: -3,4028235E+38
+Min FPS: 3,4028235E+38
+Average FPS: 0
+2025-01-14 14:31:57 - CPU Usage: 20,396406%
+2025-01-14 14:31:57 - Min CPU Usage: 20,396406%
+2025-01-14 14:31:57 - Max CPU Usage: 20,396406%
+2025-01-14 14:31:57 - Average CPU Usage: 20,396406%
+CPU Usage: 20,396406%
+RAM Usage: 60 MB

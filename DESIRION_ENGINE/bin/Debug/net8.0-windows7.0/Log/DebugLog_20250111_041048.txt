@@ -1,0 +1,11 @@
+2025-01-11 04:10:48 - Инициализация игры началась.
+2025-01-11 04:10:48 - Исключение при запуске игры: Cannot call Present when a render target is active.
+Max FPS: ∞
+Min FPS: 60,000237
+Average FPS: ∞
+2025-01-11 04:10:50 - CPU Usage: 20,0437%
+2025-01-11 04:10:50 - Min CPU Usage: 20,0437%
+2025-01-11 04:10:50 - Max CPU Usage: 20,0437%
+2025-01-11 04:10:50 - Average CPU Usage: 20,0437%
+CPU Usage: 20,0437%
+RAM Usage: 81 MB

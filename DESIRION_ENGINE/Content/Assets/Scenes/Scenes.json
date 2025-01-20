@@ -1,0 +1,16 @@
+[
+  {
+    "ID": 0,
+    "Name": "StartScene",
+    "Width": 1200,
+    "Height": 600,
+    "Scripts": [ "TestSceneScript" ]
+  },
+  {
+    "ID": 1,
+    "Name": "SecondScene",
+    "Width": 800,
+    "Height": 600,
+    "Scripts": []
+  }
+]

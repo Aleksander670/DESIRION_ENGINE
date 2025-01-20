@@ -1,0 +1,1045 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Games\\DESIRION_ENGINE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\content\\shaders\\filtershader.fx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\content\\shaders\\filtershader.fx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\content\\shaders\\radiallightshader.fx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\content\\shaders\\radiallightshader.fx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\scene\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\scene\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\content\\assets\\scripts\\testscenescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\content\\assets\\scripts\\testscenescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\render\\light\\radiallight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\render\\light\\radiallight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\render\\light\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\render\\light\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\render\\uicanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\render\\uicanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\content\\shaders\\brightness.fx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\content\\shaders\\brightness.fx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\content\\shaders\\blendshader.fx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\content\\shaders\\blendshader.fx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\content\\sprites\\spizdil.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\content\\sprites\\spizdil.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\scene\\scenedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\scene\\scenedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\scene\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\scene\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\render\\rendercanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\render\\rendercanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\render\\test\\renderbackgroundobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\render\\test\\renderbackgroundobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\render\\test\\renderobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\render\\test\\renderobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\content\\assets\\scripts\\movementscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\content\\assets\\scripts\\movementscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\render\\cursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\render\\cursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1261D1-3EA0-4F73-A4FD-4CE988BE65BC}|LauncherSettings\\LauncherSettings.csproj|d:\\games\\desirion_engine\\launchersettings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1261D1-3EA0-4F73-A4FD-4CE988BE65BC}|LauncherSettings\\LauncherSettings.csproj|solutionrelative:launchersettings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\content\\sprites\\lightspritetest.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\content\\sprites\\lightspritetest.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\content\\assets\\scripts\\cameramovementscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\content\\assets\\scripts\\cameramovementscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\content\\assets\\scripts\\testtextuiscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\content\\assets\\scripts\\testtextuiscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\icon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\icon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\render\\gameelements\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\render\\gameelements\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\render\\uielements\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\render\\uielements\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\render\\uielements\\uielementdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\render\\uielements\\uielementdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\render\\uielements\\uielement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\render\\uielements\\uielement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\render\\uielements\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\render\\uielements\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\debuglog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\debuglog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\content\\assets\\ui\\ui0.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\content\\assets\\ui\\ui0.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\content\\assets\\ui\\ui.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\content\\assets\\ui\\ui.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\filesystem\\savegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\filesystem\\savegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1261D1-3EA0-4F73-A4FD-4CE988BE65BC}|LauncherSettings\\LauncherSettings.csproj|d:\\games\\desirion_engine\\launchersettings\\launchersettings.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A1261D1-3EA0-4F73-A4FD-4CE988BE65BC}|LauncherSettings\\LauncherSettings.csproj|solutionrelative:launchersettings\\launchersettings.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1261D1-3EA0-4F73-A4FD-4CE988BE65BC}|LauncherSettings\\LauncherSettings.csproj|d:\\games\\desirion_engine\\launchersettings\\launchersettings.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6A1261D1-3EA0-4F73-A4FD-4CE988BE65BC}|LauncherSettings\\LauncherSettings.csproj|solutionrelative:launchersettings\\launchersettings.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{154DCC59-9D4C-4F8E-99F4-4BD8D4EEA8B0}|..\\CrashReporter\\CrashReporter\\CrashReporter.csproj|d:\\games\\crashreporter\\crashreporter\\crashreporter.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\desirion_engine.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\desirion_engine.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{154DCC59-9D4C-4F8E-99F4-4BD8D4EEA8B0}|..\\CrashReporter\\CrashReporter\\CrashReporter.csproj|d:\\games\\crashreporter\\crashreporter\\crashreporter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\desirion_engine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\desirion_engine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1261D1-3EA0-4F73-A4FD-4CE988BE65BC}|LauncherSettings\\LauncherSettings.csproj|d:\\games\\desirion_engine\\launchersettings\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1261D1-3EA0-4F73-A4FD-4CE988BE65BC}|LauncherSettings\\LauncherSettings.csproj|solutionrelative:launchersettings\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1261D1-3EA0-4F73-A4FD-4CE988BE65BC}|LauncherSettings\\LauncherSettings.csproj|D:\\Games\\DESIRION_ENGINE\\launchersettings\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A1261D1-3EA0-4F73-A4FD-4CE988BE65BC}|LauncherSettings\\LauncherSettings.csproj|solutionrelative:launchersettings\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A1261D1-3EA0-4F73-A4FD-4CE988BE65BC}|LauncherSettings\\LauncherSettings.csproj|d:\\games\\desirion_engine\\launchersettings\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A1261D1-3EA0-4F73-A4FD-4CE988BE65BC}|LauncherSettings\\LauncherSettings.csproj|solutionrelative:launchersettings\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\render\\gameelements\\gameentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\render\\gameelements\\gameentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\settings\\gameappdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\settings\\gameappdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\api\\script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\api\\script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\api\\scriptloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\api\\scriptloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\render\\gameelements\\gameobjectsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\render\\gameelements\\gameobjectsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\render\\gameelements\\backgrounddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\render\\gameelements\\backgrounddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\render\\gameelements\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\render\\gameelements\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\render\\uicanvasdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\render\\uicanvasdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\render\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\render\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\settings\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\settings\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\_gamedata\\render\\uielements\\colorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\_gamedata\\render\\uielements\\colorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\.nuget\\packages\\monogame.content.builder.task\\3.8.2.1105\\build\\MonoGame.Content.Builder.Task.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\content\\assets\\scenes\\scene0.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\content\\assets\\scenes\\scene0.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\content\\assets\\scenes\\scene1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\content\\assets\\scenes\\scene1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|d:\\games\\desirion_engine\\desirion_engine\\content\\assets\\scenes\\scenes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA84AF21-056B-45FB-90AF-66324044DAC2}|DESIRION_ENGINE\\DESIRION_ENGINE.csproj|solutionrelative:desirion_engine\\content\\assets\\scenes\\scenes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\.nuget\\packages\\mgcb.windows\\3.5.1.1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilterShader.fx",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Shaders\\FilterShader.fx",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\Content\\Shaders\\FilterShader.fx",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Shaders\\FilterShader.fx",
+              "RelativeToolTip": "DESIRION_ENGINE\\Content\\Shaders\\FilterShader.fx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-15T13:52:56.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RadialLightShader.fx",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Shaders\\RadialLightShader.fx",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\Content\\Shaders\\RadialLightShader.fx",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Shaders\\RadialLightShader.fx",
+              "RelativeToolTip": "DESIRION_ENGINE\\Content\\Shaders\\RadialLightShader.fx",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwEMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-10T22:46:38.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Brightness.fx",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Shaders\\Brightness.fx",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\Content\\Shaders\\Brightness.fx",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Shaders\\Brightness.fx",
+              "RelativeToolTip": "DESIRION_ENGINE\\Content\\Shaders\\Brightness.fx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-08T18:48:11.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Filter.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\Light\\Filter.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\Render\\Light\\Filter.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\Light\\Filter.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\Render\\Light\\Filter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:09:45.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CameraMovementScript.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Assets\\Scripts\\CameraMovementScript.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\Content\\Assets\\Scripts\\CameraMovementScript.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Assets\\Scripts\\CameraMovementScript.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\Content\\Assets\\Scripts\\CameraMovementScript.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T01:13:44.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Scene\\Scene.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\Scene\\Scene.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Scene\\Scene.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\Scene\\Scene.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T00:33:23.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RenderCanvas.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\RenderCanvas.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\Render\\RenderCanvas.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\RenderCanvas.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\Render\\RenderCanvas.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:10:28.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RadialLight.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\Light\\RadialLight.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\Render\\Light\\RadialLight.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\Light\\RadialLight.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\Render\\Light\\RadialLight.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwEkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:27:49.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestSceneScript.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Assets\\Scripts\\TestSceneScript.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\Content\\Assets\\Scripts\\TestSceneScript.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Assets\\Scripts\\TestSceneScript.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\Content\\Assets\\Scripts\\TestSceneScript.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIAwwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T00:11:04.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Engine.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\Engine.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Engine.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\Engine.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAwwMYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T23:13:29.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SceneData.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Scene\\SceneData.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\Scene\\SceneData.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Scene\\SceneData.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\Scene\\SceneData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T23:17:03.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UiCanvas.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\UiCanvas.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\Render\\UiCanvas.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\UiCanvas.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\Render\\UiCanvas.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAIQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:10:35.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "spizdil.png",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Sprites\\spizdil.png",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\Content\\Sprites\\spizdil.png",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Sprites\\spizdil.png",
+              "RelativeToolTip": "DESIRION_ENGINE\\Content\\Sprites\\spizdil.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-15T12:25:21.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BlendShader.fx",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Shaders\\BlendShader.fx",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\Content\\Shaders\\BlendShader.fx",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Shaders\\BlendShader.fx",
+              "RelativeToolTip": "DESIRION_ENGINE\\Content\\Shaders\\BlendShader.fx",
+              "ViewState": "AgIAACIAAAAAAAAAAAAawDYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-15T12:46:33.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SceneManager.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Scene\\SceneManager.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\Scene\\SceneManager.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Scene\\SceneManager.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\Scene\\SceneManager.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAqwGsAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T23:17:02.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LightSpriteTest.png",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Sprites\\LightSpriteTest.png",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\Content\\Sprites\\LightSpriteTest.png",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Sprites\\LightSpriteTest.png",
+              "RelativeToolTip": "DESIRION_ENGINE\\Content\\Sprites\\LightSpriteTest.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-13T21:30:28.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RenderBackgroundObj.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\Test\\RenderBackgroundObj.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\Render\\Test\\RenderBackgroundObj.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\Test\\RenderBackgroundObj.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\Render\\Test\\RenderBackgroundObj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:57:02.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RenderObj.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\Test\\RenderObj.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\Render\\Test\\RenderObj.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\Test\\RenderObj.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\Render\\Test\\RenderObj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:29:00.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MovementScript.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Assets\\Scripts\\MovementScript.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\Content\\Assets\\Scripts\\MovementScript.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Assets\\Scripts\\MovementScript.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\Content\\Assets\\Scripts\\MovementScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T17:50:42.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Cursor.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\Cursor.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\Render\\Cursor.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\Cursor.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\Render\\Cursor.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIAwwCwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T23:15:56.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Program.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\Program.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Program.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:43:08.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\LauncherSettings\\Program.cs",
+              "RelativeDocumentMoniker": "LauncherSettings\\Program.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\LauncherSettings\\Program.cs",
+              "RelativeToolTip": "LauncherSettings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:21:14.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Icon.ico - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Icon.ico",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\Icon.ico",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Icon.ico - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "RelativeToolTip": "DESIRION_ENGINE\\Icon.ico - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-01-12T02:53:57.089Z",
+              "EditorCaption": " - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TestTextUiScript.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Assets\\Scripts\\TestTextUiScript.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\Content\\Assets\\Scripts\\TestTextUiScript.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Assets\\Scripts\\TestTextUiScript.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\Content\\Assets\\Scripts\\TestTextUiScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T01:13:43.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Text.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\UiElements\\Text.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\Render\\UiElements\\Text.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\UiElements\\Text.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\Render\\UiElements\\Text.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:35:05.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UiElementData.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\UiElements\\UiElementData.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\Render\\UiElements\\UiElementData.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\UiElements\\UiElementData.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\Render\\UiElements\\UiElementData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:35:04.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Camera.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\Camera.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Camera.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\Camera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T02:02:24.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\GameElements\\GameObject.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\Render\\GameElements\\GameObject.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\GameElements\\GameObject.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\Render\\GameElements\\GameObject.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAJkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T22:24:20.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UiElement.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\UiElements\\UiElement.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\Render\\UiElements\\UiElement.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\UiElements\\UiElement.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\Render\\UiElements\\UiElement.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAqwFoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:35:05.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Image.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\UiElements\\Image.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\Render\\UiElements\\Image.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\UiElements\\Image.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\Render\\UiElements\\Image.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAASwDUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:35:06.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\InputManager.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\InputManager.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\InputManager.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\InputManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:35:16.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\SoundManager.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\SoundManager.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\SoundManager.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\SoundManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwD8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T00:39:22.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UI0.json",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Assets\\UI\\UI0.json",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\Content\\Assets\\UI\\UI0.json",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Assets\\UI\\UI0.json",
+              "RelativeToolTip": "DESIRION_ENGINE\\Content\\Assets\\UI\\UI0.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-06T00:10:18.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DebugLog.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\DebugLog.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\DebugLog.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\DebugLog.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\DebugLog.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAC0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:35:17.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UI.json",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Assets\\UI\\UI.json",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\Content\\Assets\\UI\\UI.json",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Assets\\UI\\UI.json",
+              "RelativeToolTip": "DESIRION_ENGINE\\Content\\Assets\\UI\\UI.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-06T00:10:17.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SaveGame.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\FileSystem\\SaveGame.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\FileSystem\\SaveGame.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\FileSystem\\SaveGame.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\FileSystem\\SaveGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:01:29.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LauncherSettings.csproj",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\LauncherSettings\\LauncherSettings.csproj",
+              "RelativeDocumentMoniker": "LauncherSettings\\LauncherSettings.csproj",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\LauncherSettings\\LauncherSettings.csproj",
+              "RelativeToolTip": "LauncherSettings\\LauncherSettings.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-10T01:38:35.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\LauncherSettings\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "LauncherSettings\\Form1.Designer.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\LauncherSettings\\Form1.Designer.cs",
+              "RelativeToolTip": "LauncherSettings\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T01:30:45.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DESIRION_ENGINE",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\DESIRION_ENGINE.csproj",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\DESIRION_ENGINE.csproj",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\DESIRION_ENGINE.csproj",
+              "RelativeToolTip": "DESIRION_ENGINE\\DESIRION_ENGINE.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-11T13:21:25.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CrashReporter.csproj",
+              "DocumentMoniker": "D:\\Games\\CrashReporter\\CrashReporter\\CrashReporter.csproj",
+              "RelativeDocumentMoniker": "..\\CrashReporter\\CrashReporter\\CrashReporter.csproj",
+              "ToolTip": "D:\\Games\\CrashReporter\\CrashReporter\\CrashReporter.csproj",
+              "RelativeToolTip": "..\\CrashReporter\\CrashReporter\\CrashReporter.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-11T13:22:24.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CrashReporter",
+              "DocumentMoniker": "D:\\Games\\CrashReporter\\CrashReporter\\CrashReporter.csproj",
+              "RelativeDocumentMoniker": "..\\CrashReporter\\CrashReporter\\CrashReporter.csproj",
+              "ToolTip": "D:\\Games\\CrashReporter\\CrashReporter\\CrashReporter.csproj",
+              "RelativeToolTip": "..\\CrashReporter\\CrashReporter\\CrashReporter.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-11T13:22:58.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LauncherSettings",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\LauncherSettings\\LauncherSettings.csproj",
+              "RelativeDocumentMoniker": "LauncherSettings\\LauncherSettings.csproj",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\LauncherSettings\\LauncherSettings.csproj",
+              "RelativeToolTip": "LauncherSettings\\LauncherSettings.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-11T13:23:11.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DESIRION_ENGINE.csproj",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\DESIRION_ENGINE.csproj",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\DESIRION_ENGINE.csproj",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\DESIRION_ENGINE.csproj",
+              "RelativeToolTip": "DESIRION_ENGINE\\DESIRION_ENGINE.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-10T22:16:25.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\LauncherSettings\\Form1.cs",
+              "RelativeDocumentMoniker": "LauncherSettings\\Form1.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\LauncherSettings\\Form1.cs",
+              "RelativeToolTip": "LauncherSettings\\Form1.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAHIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T01:36:38.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GameEntity.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\GameElements\\GameEntity.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\Render\\GameElements\\GameEntity.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\GameElements\\GameEntity.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\Render\\GameElements\\GameEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:43:52.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Script.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\API\\Script.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\API\\Script.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\API\\Script.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\API\\Script.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:28:09.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GameAppData.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\settings\\GameAppData.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\settings\\GameAppData.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\settings\\GameAppData.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\settings\\GameAppData.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:13:50.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "GameObjectsData.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\GameElements\\GameObjectsData.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\Render\\GameElements\\GameObjectsData.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\GameElements\\GameObjectsData.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\Render\\GameElements\\GameObjectsData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:25:57.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ScriptLoader.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\API\\ScriptLoader.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\API\\ScriptLoader.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\API\\ScriptLoader.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\API\\ScriptLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:35:17.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "BackgroundData.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\GameElements\\BackgroundData.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\Render\\GameElements\\BackgroundData.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\GameElements\\BackgroundData.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\Render\\GameElements\\BackgroundData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:35:22.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "GameSettings.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\settings\\GameSettings.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\settings\\GameSettings.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\settings\\GameSettings.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\settings\\GameSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T01:27:08.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Background.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\GameElements\\Background.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\Render\\GameElements\\Background.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\GameElements\\Background.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\Render\\GameElements\\Background.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T00:33:16.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\UIManager.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\Render\\UIManager.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\UIManager.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\Render\\UIManager.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAABBwEkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:10:26.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UiCanvasData.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\UiCanvasData.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\Render\\UiCanvasData.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\UiCanvasData.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\Render\\UiCanvasData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:22:04.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\MusicManager.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\MusicManager.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\MusicManager.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\MusicManager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAABBwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T00:39:44.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ColorHelper.cs",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\UiElements\\ColorHelper.cs",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\_gamedata\\Render\\UiElements\\ColorHelper.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\_gamedata\\Render\\UiElements\\ColorHelper.cs",
+              "RelativeToolTip": "DESIRION_ENGINE\\_gamedata\\Render\\UiElements\\ColorHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:35:08.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "MonoGame.Content.Builder.Task.targets",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\.nuget\\packages\\monogame.content.builder.task\\3.8.2.1105\\build\\MonoGame.Content.Builder.Task.targets",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\.nuget\\packages\\monogame.content.builder.task\\3.8.2.1105\\build\\MonoGame.Content.Builder.Task.targets",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAcwI4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-12T22:31:38.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "app.manifest",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\app.manifest",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\app.manifest",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\app.manifest",
+              "RelativeToolTip": "DESIRION_ENGINE\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-01-06T23:14:03.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Scene0.json",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Assets\\Scenes\\Scene0.json",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\Content\\Assets\\Scenes\\Scene0.json",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Assets\\Scenes\\Scene0.json",
+              "RelativeToolTip": "DESIRION_ENGINE\\Content\\Assets\\Scenes\\Scene0.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-06T00:34:41.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Scene1.json",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Assets\\Scenes\\Scene1.json",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\Content\\Assets\\Scenes\\Scene1.json",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Assets\\Scenes\\Scene1.json",
+              "RelativeToolTip": "DESIRION_ENGINE\\Content\\Assets\\Scenes\\Scene1.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-06T00:10:21.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Scenes.json",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Assets\\Scenes\\Scenes.json",
+              "RelativeDocumentMoniker": "DESIRION_ENGINE\\Content\\Assets\\Scenes\\Scenes.json",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\DESIRION_ENGINE\\Content\\Assets\\Scenes\\Scenes.json",
+              "RelativeToolTip": "DESIRION_ENGINE\\Content\\Assets\\Scenes\\Scenes.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-06T00:10:20.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAN0SAAAAAAAAAADgv/kSAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-30T20:16:27.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\.nuget\\packages\\mgcb.windows\\3.5.1.1\\readme.txt",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\\.nuget\\packages\\mgcb.windows\\3.5.1.1\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-12T22:37:05.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Games\\DESIRION_ENGINE\\LauncherSettings\\Form1.cs",
+              "RelativeDocumentMoniker": "LauncherSettings\\Form1.cs",
+              "ToolTip": "D:\\Games\\DESIRION_ENGINE\\LauncherSettings\\Form1.cs [Design]",
+              "RelativeToolTip": "LauncherSettings\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T01:23:51.144Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

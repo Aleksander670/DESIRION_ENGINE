@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Fonts/BaseFont.spritefont</File>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Sprites/background_test.png</File>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Sprites/FriskPNG.png</File>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Sprites/ImageUI.jpg</File>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Sprites/spizdil.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

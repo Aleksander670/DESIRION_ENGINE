@@ -1,0 +1,5 @@
+D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\obj\Debug\net7.0-windows7.0\DESIRION_ENGINE.csproj.AssemblyReference.cache
+D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\obj\Debug\net7.0-windows7.0\DESIRION_ENGINE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\obj\Debug\net7.0-windows7.0\DESIRION_ENGINE.AssemblyInfoInputs.cache
+D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\obj\Debug\net7.0-windows7.0\DESIRION_ENGINE.AssemblyInfo.cs
+D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\obj\Debug\net7.0-windows7.0\DESIRION_ENGINE.csproj.CoreCompileInputs.cache

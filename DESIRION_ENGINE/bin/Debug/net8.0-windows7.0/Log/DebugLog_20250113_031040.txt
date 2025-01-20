@@ -1,0 +1,11 @@
+2025-01-13 03:10:40 - Инициализация игры началась.
+2025-01-13 03:10:40 - Исключение при запуске игры: Draw was called, but Begin has not yet been called. Begin must be called successfully before you can call Draw.
+Max FPS: ∞
+Min FPS: 60,000237
+Average FPS: ∞
+2025-01-13 03:10:42 - CPU Usage: 10,610276%
+2025-01-13 03:10:42 - Min CPU Usage: 10,610276%
+2025-01-13 03:10:42 - Max CPU Usage: 10,610276%
+2025-01-13 03:10:42 - Average CPU Usage: 10,610276%
+CPU Usage: 10,610276%
+RAM Usage: 72 MB

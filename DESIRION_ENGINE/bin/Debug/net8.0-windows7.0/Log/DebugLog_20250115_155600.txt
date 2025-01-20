@@ -1,0 +1,11 @@
+2025-01-15 15:56:00 - Исключение при запуске игры: HRESULT: [0x80070057], Module: [General], ApiCode: [E_INVALIDARG/Invalid Arguments], Message: Параметр задан неверно.
+
+Max FPS: -3,4028235E+38
+Min FPS: 3,4028235E+38
+Average FPS: 0
+2025-01-15 15:56:06 - CPU Usage: 16,82337%
+2025-01-15 15:56:06 - Min CPU Usage: 16,82337%
+2025-01-15 15:56:06 - Max CPU Usage: 16,82337%
+2025-01-15 15:56:06 - Average CPU Usage: 16,82337%
+CPU Usage: 16,82337%
+RAM Usage: 66 MB

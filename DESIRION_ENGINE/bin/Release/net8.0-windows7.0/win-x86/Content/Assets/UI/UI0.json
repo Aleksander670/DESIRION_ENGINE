@@ -1,0 +1,49 @@
+{
+  "Name": "MainMenu",
+  "UiElements": [
+    {
+      "Type": "Image",
+      "Source": "Sprites/GameplayUI/Lifebar_background",
+      "PositionX": 50,
+      "PositionY": 50,
+      "SizeX": 1,
+      "SizeY": 1,
+      "Origin": "Left",
+      "ColorHex": "#FFFFFF"
+    },
+    {
+      "Type": "Image",
+      "Source": "Sprites/GameplayUI/Lifebar_front",
+      "PositionX": 50,
+      "PositionY": 50,
+      "SizeX": 1,
+      "SizeY": 1,
+      "Origin": "Left",
+      "ColorHex": "#FFFFFF"
+    },
+    {
+      "Type": "Image",
+      "Source": "Sprites/GameplayUI/Levelbar",
+      "PositionX": 50,
+      "PositionY": 50,
+      "SizeX": 0.5,
+      "SizeY": 0.5,
+      "Origin": "Center",
+      "ColorHex": "#FFFFFF"
+    },
+    {
+      "Type": "Text",
+      "Content": "10",
+      "Font": "Fonts/BaseFont",
+      "PositionX": 50,
+      "PositionY": 50,
+      "SizeX": 1,
+      "SizeY": 1,
+      "Origin": "Left",
+      "ColorHex": "#FFFFFF",
+      "Script": [ "TestTextUiScript" ]
+    }
+
+
+  ]
+}

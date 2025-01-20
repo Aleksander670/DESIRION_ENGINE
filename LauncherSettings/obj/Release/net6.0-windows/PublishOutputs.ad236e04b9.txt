@@ -1,0 +1,6 @@
+C:\Users\Александр\Desktop\DE\LauncherSettings.exe
+C:\Users\Александр\Desktop\DE\LauncherSettings.dll
+C:\Users\Александр\Desktop\DE\LauncherSettings.deps.json
+C:\Users\Александр\Desktop\DE\LauncherSettings.runtimeconfig.json
+C:\Users\Александр\Desktop\DE\LauncherSettings.pdb
+C:\Users\Александр\Desktop\DE\Newtonsoft.Json.dll

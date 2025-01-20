@@ -1,0 +1,14 @@
+{
+  "MonitorNumber": 1,
+  "WindowSizeWidth": 800,
+  "WindowSizeHeight": 600,
+  "isFullScreen": false,
+  "VerticalSync": true,
+  "FPSlimit": 60,
+  "AutoSave": true,
+  "AutoSaveTime": 5,
+  "Lang": "en",
+  "MaximumMusicVolume": 0.2,
+  "MaximumSoundVolume": 0.2,
+  "Brightness": 1.0
+}

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Audio/Music/ArdSkellige.mp3</File>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Audio/Sound/testSound.wav</File>
+    <File>C:/Users/Александр/Desktop/textures/RadioButtonInactive.png</File>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Fonts/BaseFont.spritefont</File>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Shaders/BlendShader.fx</File>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Shaders/Brightness.fx</File>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Shaders/FilterShader.fx</File>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Shaders/RadialLightShader.fx</File>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Sprites/background_test.png</File>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Sprites/Background_test3.png</File>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Sprites/FriskPNG.png</File>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Sprites/GameplayUI/Lebelbar.png</File>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Sprites/GameplayUI/Lifebal_background.png</File>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Sprites/GameplayUI/Lifebar_front.png</File>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Sprites/GameplayUI/Stamina_background.png</File>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Sprites/GameplayUI/Stamina_front.png</File>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Sprites/ImageUI.jpg</File>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Sprites/Light1.png</File>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Sprites/LightSpriteTest.png</File>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Sprites/spizdil.png</File>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Sprites/System/CheckboxActive.png</File>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Sprites/System/CheckboxInactive.png</File>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Sprites/System/RadioButtonActive.png</File>
+    <File>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Sprites/System/SystemCursor.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Sprites/System/RadioButtonInactive.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Sprites/GameplayUI/Levelbar.png</File>
+    <File>Sprites/GameplayUI/Lifebar_background.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

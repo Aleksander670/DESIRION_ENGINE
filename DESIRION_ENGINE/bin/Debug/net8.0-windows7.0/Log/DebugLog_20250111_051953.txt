@@ -1,0 +1,10 @@
+2025-01-11 05:19:53 - Исключение при запуске игры: The content file was not found.
+Max FPS: -3,4028235E+38
+Min FPS: 3,4028235E+38
+Average FPS: 0
+2025-01-11 05:19:55 - CPU Usage: 15,979083%
+2025-01-11 05:19:55 - Min CPU Usage: 15,979083%
+2025-01-11 05:19:55 - Max CPU Usage: 15,979083%
+2025-01-11 05:19:55 - Average CPU Usage: 15,979083%
+CPU Usage: 15,979083%
+RAM Usage: 83 MB

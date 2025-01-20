@@ -1,0 +1,14 @@
+{
+  "MonitorNumber": 1,
+  "WindowSizeWidth": 1240,
+  "WindowSizeHeight": 697,
+  "isFullScreen": false,
+  "VerticalSync": false,
+  "FPSlimit": 60,
+  "AutoSave": true,
+  "AutoSaveTime": 5,
+  "Lang": "en",
+  "MaximumMusicVolume": 0.0,
+  "MaximumSoundVolume": 0.0,
+  "Brightness": 0.0
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/Shaders/PointLightShader.fx</SourceFile>
+  <SourceTime>2025-01-06T01:15:00.1045311+03:00</SourceTime>
+  <DestFile>D:/Games/DESIRION_ENGINE/DESIRION_ENGINE/Content/bin/Windows/Content/Shaders/PointLightShader.xnb</DestFile>
+  <DestTime>2025-01-06T01:15:01.2951385+03:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2024-08-16T20:05:56+03:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2024-08-16T20:05:56+03:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

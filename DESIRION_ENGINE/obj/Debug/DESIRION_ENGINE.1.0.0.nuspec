@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DESIRION_ENGINE</id>
+    <version>1.0.0</version>
+    <authors>DESIRION_ENGINE</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="MonoGame.Content.Builder.Task" version="3.8.2.1105" exclude="Build,Analyzers" />
+        <dependency id="MonoGame.Framework.WindowsDX" version="3.8.2.1105" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net8.0-windows7.0/Content/bin/Windows/Content/audio/music/ArdSkellige.wma" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Content/bin/Windows/Content/audio/music/ArdSkellige.xnb" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Content/bin/Windows/Content/audio/music/ArgSkelige.wma" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Content/bin/Windows/Content/audio/music/ArgSkelige.xnb" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Content/bin/Windows/Content/audio/music/The Witcher 3_ Wild Hunt OST — The Fields of Ard Skellig [Extended] (www.lightaudio.ru).wma" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Content/bin/Windows/Content/audio/music/The Witcher 3_ Wild Hunt OST — The Fields of Ard Skellig [Extended] (www.lightaudio.ru).xnb" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Content/bin/Windows/Content/Fonts/BaseFont.xnb" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Content/bin/Windows/Content/Shaders/Brightness.xnb" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Content/bin/Windows/Content/Shaders/FilterShader.xnb" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Content/bin/Windows/Content/Shaders/PointLightShader.xnb" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Content/bin/Windows/Content/Shaders/ShadowVertexShader.xnb" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Content/bin/Windows/Content/Sprites/background_test.xnb" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Content/bin/Windows/Content/Sprites/FriskPNG.xnb" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Content/bin/Windows/Content/Sprites/ImageUI.xnb" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Content/bin/Windows/Content/Sprites/Light1.xnb" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Content/bin/Windows/Content/Sprites/spizdil.xnb" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Content/bin/Windows/Content/Sprites/System/CheckboxActive.xnb" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Content/bin/Windows/Content/Sprites/System/CheckboxInactive.xnb" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Content/bin/Windows/Content/Sprites/System/RadioButtonActive.xnb" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Content/bin/Windows/Content/Sprites/System/RadioButtonInactive.xnb" buildAction="Content" />
+      <files include="any/net8.0-windows7.0/Content/bin/Windows/Content/Sprites/System/SystemCursor.xnb" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\bin\Debug\net8.0-windows7.0\DESIRION_ENGINE.runtimeconfig.json" target="lib\net8.0-windows7.0\DESIRION_ENGINE.runtimeconfig.json" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\bin\Debug\net8.0-windows7.0\DESIRION_ENGINE.dll" target="lib\net8.0-windows7.0\DESIRION_ENGINE.dll" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\audio\music\ArdSkellige.wma" target="content\Content\bin\Windows\Content\audio\music\ArdSkellige.wma" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\audio\music\ArdSkellige.wma" target="contentFiles\any\net8.0-windows7.0\Content\bin\Windows\Content\audio\music\ArdSkellige.wma" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\audio\music\ArdSkellige.xnb" target="content\Content\bin\Windows\Content\audio\music\ArdSkellige.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\audio\music\ArdSkellige.xnb" target="contentFiles\any\net8.0-windows7.0\Content\bin\Windows\Content\audio\music\ArdSkellige.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\audio\music\ArgSkelige.wma" target="content\Content\bin\Windows\Content\audio\music\ArgSkelige.wma" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\audio\music\ArgSkelige.wma" target="contentFiles\any\net8.0-windows7.0\Content\bin\Windows\Content\audio\music\ArgSkelige.wma" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\audio\music\ArgSkelige.xnb" target="content\Content\bin\Windows\Content\audio\music\ArgSkelige.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\audio\music\ArgSkelige.xnb" target="contentFiles\any\net8.0-windows7.0\Content\bin\Windows\Content\audio\music\ArgSkelige.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\audio\music\The Witcher 3_ Wild Hunt OST — The Fields of Ard Skellig [Extended] (www.lightaudio.ru).wma" target="content\Content\bin\Windows\Content\audio\music\The Witcher 3_ Wild Hunt OST — The Fields of Ard Skellig [Extended] (www.lightaudio.ru).wma" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\audio\music\The Witcher 3_ Wild Hunt OST — The Fields of Ard Skellig [Extended] (www.lightaudio.ru).wma" target="contentFiles\any\net8.0-windows7.0\Content\bin\Windows\Content\audio\music\The Witcher 3_ Wild Hunt OST — The Fields of Ard Skellig [Extended] (www.lightaudio.ru).wma" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\audio\music\The Witcher 3_ Wild Hunt OST — The Fields of Ard Skellig [Extended] (www.lightaudio.ru).xnb" target="content\Content\bin\Windows\Content\audio\music\The Witcher 3_ Wild Hunt OST — The Fields of Ard Skellig [Extended] (www.lightaudio.ru).xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\audio\music\The Witcher 3_ Wild Hunt OST — The Fields of Ard Skellig [Extended] (www.lightaudio.ru).xnb" target="contentFiles\any\net8.0-windows7.0\Content\bin\Windows\Content\audio\music\The Witcher 3_ Wild Hunt OST — The Fields of Ard Skellig [Extended] (www.lightaudio.ru).xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Fonts\BaseFont.xnb" target="content\Content\bin\Windows\Content\Fonts\BaseFont.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Fonts\BaseFont.xnb" target="contentFiles\any\net8.0-windows7.0\Content\bin\Windows\Content\Fonts\BaseFont.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Shaders\Brightness.xnb" target="content\Content\bin\Windows\Content\Shaders\Brightness.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Shaders\Brightness.xnb" target="contentFiles\any\net8.0-windows7.0\Content\bin\Windows\Content\Shaders\Brightness.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Shaders\FilterShader.xnb" target="content\Content\bin\Windows\Content\Shaders\FilterShader.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Shaders\FilterShader.xnb" target="contentFiles\any\net8.0-windows7.0\Content\bin\Windows\Content\Shaders\FilterShader.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Shaders\PointLightShader.xnb" target="content\Content\bin\Windows\Content\Shaders\PointLightShader.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Shaders\PointLightShader.xnb" target="contentFiles\any\net8.0-windows7.0\Content\bin\Windows\Content\Shaders\PointLightShader.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Shaders\ShadowVertexShader.xnb" target="content\Content\bin\Windows\Content\Shaders\ShadowVertexShader.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Shaders\ShadowVertexShader.xnb" target="contentFiles\any\net8.0-windows7.0\Content\bin\Windows\Content\Shaders\ShadowVertexShader.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Sprites\background_test.xnb" target="content\Content\bin\Windows\Content\Sprites\background_test.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Sprites\background_test.xnb" target="contentFiles\any\net8.0-windows7.0\Content\bin\Windows\Content\Sprites\background_test.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Sprites\FriskPNG.xnb" target="content\Content\bin\Windows\Content\Sprites\FriskPNG.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Sprites\FriskPNG.xnb" target="contentFiles\any\net8.0-windows7.0\Content\bin\Windows\Content\Sprites\FriskPNG.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Sprites\ImageUI.xnb" target="content\Content\bin\Windows\Content\Sprites\ImageUI.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Sprites\ImageUI.xnb" target="contentFiles\any\net8.0-windows7.0\Content\bin\Windows\Content\Sprites\ImageUI.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Sprites\Light1.xnb" target="content\Content\bin\Windows\Content\Sprites\Light1.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Sprites\Light1.xnb" target="contentFiles\any\net8.0-windows7.0\Content\bin\Windows\Content\Sprites\Light1.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Sprites\spizdil.xnb" target="content\Content\bin\Windows\Content\Sprites\spizdil.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Sprites\spizdil.xnb" target="contentFiles\any\net8.0-windows7.0\Content\bin\Windows\Content\Sprites\spizdil.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Sprites\System\CheckboxActive.xnb" target="content\Content\bin\Windows\Content\Sprites\System\CheckboxActive.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Sprites\System\CheckboxActive.xnb" target="contentFiles\any\net8.0-windows7.0\Content\bin\Windows\Content\Sprites\System\CheckboxActive.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Sprites\System\CheckboxInactive.xnb" target="content\Content\bin\Windows\Content\Sprites\System\CheckboxInactive.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Sprites\System\CheckboxInactive.xnb" target="contentFiles\any\net8.0-windows7.0\Content\bin\Windows\Content\Sprites\System\CheckboxInactive.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Sprites\System\RadioButtonActive.xnb" target="content\Content\bin\Windows\Content\Sprites\System\RadioButtonActive.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Sprites\System\RadioButtonActive.xnb" target="contentFiles\any\net8.0-windows7.0\Content\bin\Windows\Content\Sprites\System\RadioButtonActive.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Sprites\System\RadioButtonInactive.xnb" target="content\Content\bin\Windows\Content\Sprites\System\RadioButtonInactive.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Sprites\System\RadioButtonInactive.xnb" target="contentFiles\any\net8.0-windows7.0\Content\bin\Windows\Content\Sprites\System\RadioButtonInactive.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Sprites\System\SystemCursor.xnb" target="content\Content\bin\Windows\Content\Sprites\System\SystemCursor.xnb" />
+    <file src="D:\Games\DESIRION_ENGINE\DESIRION_ENGINE\Content\bin\Windows\Content\Sprites\System\SystemCursor.xnb" target="contentFiles\any\net8.0-windows7.0\Content\bin\Windows\Content\Sprites\System\SystemCursor.xnb" />
+  </files>
+</package>

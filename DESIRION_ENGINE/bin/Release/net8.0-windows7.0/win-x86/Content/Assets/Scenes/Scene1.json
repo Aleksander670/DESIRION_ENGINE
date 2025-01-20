@@ -1,0 +1,17 @@
+{
+  "CameraScript": [ "CameraMovementScript" ],
+  "Background": {
+    "TexturePath": "Sprites/background_test"
+  },
+  "Objects": [
+    {
+      "Type": "Player",
+      "PositionX": 10,
+      "PositionY": 10,
+      "TexturePath": "Sprites/FriskPNG",
+      "Width": 128,
+      "Height": 128
+    }
+
+  ]
+}

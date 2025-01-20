@@ -1,0 +1,10 @@
+2025-01-13 03:28:41 - Исключение при запуске игры: Texture height must be greater than zero (Parameter 'height')
+Max FPS: -3,4028235E+38
+Min FPS: 3,4028235E+38
+Average FPS: 0
+2025-01-13 03:28:43 - CPU Usage: 8,812705%
+2025-01-13 03:28:43 - Min CPU Usage: 8,812705%
+2025-01-13 03:28:43 - Max CPU Usage: 8,812705%
+2025-01-13 03:28:43 - Average CPU Usage: 8,812705%
+CPU Usage: 8,812705%
+RAM Usage: 60 MB
